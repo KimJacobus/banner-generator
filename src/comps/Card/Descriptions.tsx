@@ -1,13 +1,13 @@
 //types
 import { themeObject, cardDataObjT } from '../../types/cardProps'
-import { inputObject } from '../../types/inputProps'
+import { singleInputObj } from '../../types/inputProps'
 //styles
 import { FirstDescription, CustomCountry, SecondDescription } from './paragraphStyles'
 
 type stylePropsT = {
    theme?: themeObject
    $cardData?: cardDataObjT
-   $inputobj?: inputObject
+   $inputobj?: singleInputObj
 }
 
 export const Description = ({ theme, $cardData, $inputobj }: stylePropsT) => {
