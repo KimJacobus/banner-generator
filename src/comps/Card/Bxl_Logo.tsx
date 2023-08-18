@@ -1,5 +1,5 @@
-import bxl_airport_logo from '/home/ricky/^IO/bxl-airport-img-gen/src/assets/png/bxl_logo.png'
-import brussels_airport from '/home/ricky/^IO/bxl-airport-img-gen/src/assets/png/brussels_airport.png'
+import bxl_airport_logo from '/src/assets/png/bxl_logo.png'
+import brussels_airport from '/src/assets/png/brussels_airport.png'
 import { BxlLogo } from '../Containers/ConditionalStyles'
 import { cardPropsT } from '../../types/cardProps'
 
