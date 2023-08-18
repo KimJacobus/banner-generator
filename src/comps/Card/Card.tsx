@@ -7,7 +7,7 @@ import { DownloadButton } from '../IconButtons'
 //types
 import { cardPropsT } from '../../types/cardProps'
 //images
-import download from '/home/ricky/^IO/bxl-airport-img-gen/src/assets/download.svg'
+import download from '/src/assets/download.svg'
 //styles
 import { StyledCard } from './StyledCard'
 import { ImageContainer } from './Containers/ImageContainer'
