@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 //comps
-import { ParagraphContainer } from '../../Containers/Containers'
+import { ParagraphContainer } from '../../../Containers/Containers'
 
 const StyledJsonBox = styled.div`
    height: 10%;

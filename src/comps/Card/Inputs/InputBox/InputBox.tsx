@@ -8,7 +8,7 @@ import arrowUp from '/src/assets/arrow-up.svg'
 import downloadAll from '/src/assets/arrow-down-circle.svg'
 
 //comps
-import { FlexBox } from '../../Containers/Containers'
+import { FlexBox } from '../../../Containers/Containers'
 import { IconButton } from '../../../IconButtons'
 
 const InputFlex = styled(FlexBox)`

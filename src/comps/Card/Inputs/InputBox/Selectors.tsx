@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { useContext } from 'react'
 import { ContextInit } from '../../../../hooks/useThemeContext'
 //comps
-import { FlexBox } from '../../Containers/Containers'
+import { FlexBox } from '../../../Containers/Containers'
 
 const StyledColorSelector = styled.div`
    display: flex;
