@@ -6,7 +6,7 @@
   "homepage": "https://kimjacobus.github.io/banner-generator/",
 
   "scripts": {
-    "deploy": "gh-pages -d dist",
+    "deploy": "live -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
