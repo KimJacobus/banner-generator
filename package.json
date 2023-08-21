@@ -4,9 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://kimjacobus.github.io/banner-generator/",
-
   "scripts": {
-    "deploy": "live -d dist",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",

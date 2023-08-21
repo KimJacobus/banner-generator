@@ -4,16 +4,27 @@ import { ContextInit } from "./useThemeContext"
 //types
 import { singleInputObj, imageObject } from "../types/inputProps"
 //data
-import { defaultImageObj } from "../data/themesData"
+// import { defaultImageObj } from "../data/themesData"
+
+import topLayer from "/src/assets/mask-sunseekers.png"
+import middleLayer from "/src/assets/thicker-Stroke-3.png"
+import bottomLayer from "/src/assets/sunseekers-turkije.png"
 
 export const useInputs = () => {
   const { defInputObj, themeSelector } = useContext(ContextInit)
-//   const [customCountry, setCustomCountry] = useState<string>("Griekenland")
+  //   const [customCountry, setCustomCountry] = useState<string>("Griekenland")
   const [JSONUrl, setJSONUrl] = useState<string>("")
   const [JSONData, setJSONData] = useState<[{}]>([{}])
   const JSONBool = Object.keys(JSONData).length > 2
 
   //https://jsonplaceholder.typicode.com/users/1
+
+  //default image object for temp build
+  const defaultImageObj = {
+    topLayer,
+    middleLayer,
+    bottomLayer,
+  }
 
   const [inputObj, setInputObject] = useState<singleInputObj>(defInputObj)
   const [imageObj, setImageObject] = useState<imageObject>(defaultImageObj)
