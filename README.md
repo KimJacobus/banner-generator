@@ -35,7 +35,7 @@ To illustrate the potential of this application, I've utilized the iconic Brusse
 
 ## Getting Started
 
-Instruction for running the project locally.
+Instructions for running the project locally.
 
 ### Prerequisites
 
