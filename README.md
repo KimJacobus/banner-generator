@@ -7,13 +7,10 @@
     An application for generating and downloading banners
   </p>
 
-<a style="font-size: 18px;" href="https://kimjacobus.github.io/banner-generator/">See the app live</a>
+<a style="font-size: 18px;" href="https://kimjacobus.github.io/banner-generator/">See the app live</a> 🚀
 <br/>
 <br/>
 <img src="example.png" alt="Example Image" width="600"/>
-
-
-
 
 </div>
 
