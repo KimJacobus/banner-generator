@@ -8,7 +8,7 @@
   </p>
 
 <br/>
-<a style="font-size: 18px;" href="https://github.com/github_username/repo_name">See the app live</a>
+<a style="font-size: 18px;" href="https://kimjacobus.github.io/banner-generator/">See the app live</a>
 <br/>
 <br/>
 <img src="example.png" alt="Example Image" width="600"/>
