@@ -17,7 +17,7 @@
 ## About The Project
 
 **A banner-generator application designed to effortlessly craft banners in various formats**,
-made with a plethora of customization features and the possibility to either download them in zip folder or a single PNG file.
+made with a plethora of customization features and the possibility to either download them in a zip folder or a single PNG file.
 
 The **image component** has three layers made with a composition of mask, front and background layer in mind.
 
