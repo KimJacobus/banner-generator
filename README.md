@@ -39,7 +39,7 @@ Instructions for running the project locally.
 
 ### Prerequisites
 
-- npm (or the package manager your prefer)
+- npm (or the package manager you prefer)
 
   ```sh
   npm install npm@latest -g
